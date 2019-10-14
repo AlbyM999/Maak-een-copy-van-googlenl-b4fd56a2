@@ -11,7 +11,7 @@ header img{
 }
 .box{
     text-align: center;
-    top: 40%;
+    top: 23%;
     position: absolute;
     width: 100%;
 }
@@ -21,7 +21,7 @@ header img{
 .inputsearch{
     border: #ececec 2px solid;
     border-radius: 50px;
-    width: 50%;
+    width: 40%;
     margin-bottom: 1%;
     background-image: url(images/searchbar.png);
     background-size: cover;
